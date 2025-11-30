@@ -49,3 +49,5 @@
 
 ---
 
+- invite https://drexbot.xyz/invite
+- support https://drexbot.xyz/support
