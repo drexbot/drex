@@ -1,46 +1,51 @@
-# drex
-![Drex](https://devmapxor.io/drexbot.jpeg)
-DrexBot — The Best Discord Music Bot
+# 🎧 **DrexBot — The Ultimate Discord Music Bot**
 
-A next-generation Discord Music Bot with support for Spotify, YouTube, SoundCloud, and more. Fast, stable, and built for the modern Discord community.
+<p align="center">
+  <img 
+    src="https://devmapxor.io/drexbot.jpeg" 
+    alt="DrexBot Banner"
+    width="900"
+    style="border-radius:18px; box-shadow:0 6px 25px rgba(0,0,0,0.25);"
+  />
+</p>
 
-DrexBot delivers high-quality audio, powerful commands, and a clean user experience — making it one of the most advanced Discord Music Bots available.
+<p align="center">
+  <img 
+    src="https://devmapxor.io/drexlogo.png" 
+    alt="DrexBot Logo"
+    width="150"
+    style="border-radius:20px; margin-top:20px;"
+  />
+</p>
 
-⸻
+<p align="center">
+  <strong>High-quality music • Spotify • YouTube • SoundCloud • Fast & Stable</strong><br>
+  The next-generation music bot for Discord servers.
+</p>
 
-🔍 Why DrexBot?
+---
 
-DrexBot is designed for speed, stability, and premium-quality music.
-Whether you want a simple player or a full music system, DrexBot is the perfect solution for every Discord server.
+## ⭐ **Features**
 
-⸻
+- 🎵 **Play Music from Anywhere**  
+  Spotify • YouTube • SoundCloud • Playlists • Albums • Search queries.
 
-🚀 Key Features
-	•	🎵 Play Music from Everywhere
-Supports YouTube, Spotify, SoundCloud, playlists, albums, artists, links & queries.
-	•	🎚️ Advanced Player Controls
-Pause, resume, skip, back, loop, shuffle, volume, and more.
-	•	📜 Queue System
-Full queue page, reorder songs, jump to positions, clear queue.
-	•	🎤 Lyrics Support
-Fetch song lyrics directly inside Discord.
-	•	🖼️ Dynamic Now-Playing Cards
-Beautiful image-based cards with track title, thumbnail & progress bar.
-	•	⚡ Fast & Optimized
-Built using Node.js with highly efficient performance.
-	•	💬 Slash Commands
-Modern Discord interactions with autocomplete and rich embeds.
-	•	🌐 Dashboard Support (optional)
-Manage the bot through a clean web dashboard.
-	•	🔐 Secure & Stable
-Error handling, logging & safe production-ready structure.
+- 🎚️ **Advanced Player Controls**  
+  Skip • Pause • Resume • Loop • Shuffle • Volume • Back.
 
-⸻
+- 📜 **Queue System**  
+  View • Jump • Reorder • Remove • Clear.
 
-🛠️ Technologies Used
-	•	Node.js
-	•	Discord.js
-	•	Lavalink / Audio Engine
-	•	Spotify API
-	•	YouTube API
-	•	Modern slash command system
+- 🎤 **Lyrics Support**
+
+- 🖼️ **Dynamic Now-Playing Cards**
+
+- ⚡ **Fast & Optimized**  
+  Node.js + Discord.js v14.
+
+- 💬 **Modern Slash Commands**
+
+- 🌐 **Dashboard Support** (optional)
+
+---
+
